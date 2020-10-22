@@ -38,7 +38,7 @@ function onclick() {
 
 // Vidare övningsuppgifter 2
 
-const button = document.getElementById('button')
+/* const button = document.getElementById('button')
 button.addEventListener('click', colorSwitch)
 
 function colorSwitch() {
@@ -70,4 +70,8 @@ function colorSwitch() {
         textTwo.innerText = 'GREEN'
     }
     
-}
+} */
+
+// Övning if/else if/else
+
+
